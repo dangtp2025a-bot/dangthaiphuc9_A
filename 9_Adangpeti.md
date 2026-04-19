@@ -45,6 +45,6 @@ Ez a fizikai megjelenés maximalizálására irányuló törekvést jelenti, ké
 
 ## 6. Projekt Adminisztráció
 * **Csapat neve:** Chads
-* **Tagok:** peti,bence,zalám,tibor
+* **Tagok:** peti,bence,zalán,tibor
 * **GitHub repository:** https://github.com/dangtp2025a-bot/dangthaiphuc9_A.git
 * **Trello tábla:** https://trello.com/invite/b/69ba6259b9c567d48ff254de/ATTIef3d4f24f2c1b0122f2df83d688baea6DBD3680A/chads
